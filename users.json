@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 22,
+      "name": "Jorge Roberto",
+      "email": "jorge@mail.com",
+      "password": "123456",
+      "birth": "05/04/1990",
+      "userType": "administrador"
+    },
+    {
+      "id": 25,
+      "name": "Marina Nunes",
+      "email": "marina@mail.com",
+      "password": "123456",
+      "birth": "05/04/1980",
+      "userType": "calaborador"
+    }
+  ]
+}
